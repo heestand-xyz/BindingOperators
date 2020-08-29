@@ -3,7 +3,7 @@
 User math operators with bindings and constants.
 
 ~~~~swift
-@State var value: CGFloat = 0.0
+@State var value: CGFloat = 3.0
 let binding: Binding<CGFloat> = $value * 2.0
 ~~~~
 
