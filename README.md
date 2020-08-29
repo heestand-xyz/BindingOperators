@@ -15,6 +15,8 @@ let binding: Binding<CGFloat> = $value * 2.0
 
 ## Example
 
+![](https://github.com/hexagons/BindingOperators/blob/main/Assets/BindingOperators.gif?raw=true)
+
 ~~~~swift
 import SwiftUI
 
